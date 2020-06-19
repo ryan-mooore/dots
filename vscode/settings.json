@@ -42,7 +42,7 @@
   "editor.cursorSmoothCaretAnimation": true,
   
   /* other */
-  "editor.suggestSelection": "recentlyUsed",
+  "editor.suggestSelection": "first",
   "editor.renderWhitespace": "all",
   "editor.acceptSuggestionOnEnter": "off",
 
@@ -61,6 +61,7 @@
   "explorer.compactFolders": false,
   "explorer.openEditors.visible": 0,
   "explorer.sortOrder": "filesFirst",
+  "workbench.list.smoothScrolling": true,
   "workbench.tree.indent": 20,
   "workbench.tree.renderIndentGuides": "always",
   "files.exclude": {
@@ -87,10 +88,10 @@
   
   //---------- OTHER ----------//
   "git.autofetch": true,
-  "diffEditor.ignoreTrimWhitespace": true,
   "python.languageServer": "Microsoft",
-  "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
+  "vsintellicode.modify.editor.suggestSelection": "choseToUpdateConfiguration",
   "keyboard.dispatch": "keyCode", //enables colemak backspace
+	"editor.renderLineHighlight": "all",
 
 
   //---------- DISCORD ----------//
@@ -106,4 +107,33 @@
   "discord.detailsEditing": "Editing {filename}:{currentline}",
   "discord.lowerDetailsEditing": "Workspace {workspace}: {dirname}",
   "discord-chat.compactView": true,
+
+  //---------- VIM ----------//
+  //"vim.easymotion": true,
+  //"vim.incsearch": true,
+  "vim.useSystemClipboard": true,
+  "vim.useCtrlKeys": false,
+  "vim.hlsearch": true,
+  "vim.insertModeKeyBindings": [
+    {
+      "before": ["j", "j"],
+      "after": ["<Esc>"]
+    }
+  ],
+  "vim.normalModeKeyBindingsNonRecursive": [
+    {
+      "before": ["<leader>", "d"],
+      "after": ["d", "d"]
+    },
+    {
+      "before": ["<C-n>"],
+      "commands": [":nohl"]
+    }
+  ],
+  "vim.leader": "<space>",
+  "vim.handleKeys": {
+    "<C-a>": false,
+    "<C-f>": false
+  }
+}
 }
