@@ -1,0 +1,21 @@
+{
+  "settingsVersion": "1.66",
+  "exclusionRules": [],
+  "filterLinkHints": false,
+  "waitForEnterForFilteredHints": true,
+  "hideHud": false,
+  "keyMappings": "map n scrollDown\nmap e scrollUp\nmap h scrollLeft\nmap i scrollRight\n\nmap N previousTab\nmap E nextTab\n\nmap H goBack\nmap I goForward\n\nmap l insertMode",
+  "linkHintCharacters": "arstneio",
+  "linkHintNumbers": "0123456789",
+  "newTabUrl": "pages/blank.html",
+  "nextPatterns": "next,more,newer,>,›,→,»,≫,>>,submit,enter",
+  "previousPatterns": "prev,previous,back,older,<,‹,←,«,≪,<<",
+  "regexFindMode": false,
+  "ignoreKeyboardLayout": false,
+  "scrollStepSize": 60,
+  "smoothScroll": true,
+  "grabBackFocus": false,
+  "searchEngines": "w: https://www.wikipedia.org/w/index.php?title=Special:Search&search=%s Wikipedia\ng: https://www.google.com/search?q=%s Google\nl: https://www.google.com/search?q=%s&btnI I'm feeling lucky...\ny: https://www.youtube.com/results?search_query=%s Youtube\ngm: https://www.google.com/maps?q=%s Google maps",
+  "searchUrl": "https://www.google.com/search?q=",
+  "userDefinedLinkHintCss": "";
+}

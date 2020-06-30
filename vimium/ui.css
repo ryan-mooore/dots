@@ -1,0 +1,142 @@
+/* colours*/
+
+:root {
+    --bg-color: #373737;
+    --select-color: #5b5b5b;
+
+    --input-bg-color: #222222;
+    --input-text-color: #ffffff;
+    
+    --li-source-color: #bfbfbf;
+    --li-title-color: #ffffff;
+    --li-url-color: #67a3f3;
+    
+    --match-text-color: inherit;
+
+    --font-family: inherit;
+}
+
+:root {
+    --hm-bg-color: #4b7bec;
+    --hm-accent-color: #3867d6;
+    
+    --hm-text-color: #ffffff;
+    --hm-text-accent-color: #dcbc2a;
+}
+
+/*vomnibar*/
+
+#vomnibar {
+    background: var(--bg-color);
+    border-radius: 5px;
+    border: 0;
+    z-index: 1;
+    box-shadow: none;
+    text-align: left;
+    font-family: var(--font-family) !important;;
+}
+
+#vomnibar .vimiumReset {
+    font-family: var(--font-family) !important;
+}
+
+#vomnibar .vomnibarSearchArea {
+    padding: 5px;
+    background-color: var(--bg-color);
+    border-radius: 5px;
+    border-bottom: 0;
+}
+#vomnibar input {
+    color: var(--input-text-color);
+    padding-left: 10px;
+    font-size: 14px;
+    height: 30px;
+    background-color: var(--input-bg-color);
+    border: 0;
+}
+
+#vomnibar ul {
+    background-color: var(--bg-color);
+    margin: 0;
+    padding-top: 5px;
+}
+#vomnibar li {
+    border-bottom: 0;
+    overflow: hidden;
+    white-space: nowrap;
+}
+
+#vomnibar li .vomnibarTopHalf, #vomnibar li .vomnibarBottomHalf {
+    display: inline-block;
+    /* comment out for two-line */
+    overflow: hidden;
+    height: 16px;
+    vertical-align: middle;
+}
+
+#vomnibar li .vomnibarBottomHalf {
+    font-size: 15px;
+    margin-top: 0;
+    padding: 2px 0;
+    font-size: 13px;
+    padding-top: 4px;
+    vertical-align: middle;
+}
+
+#vomnibar li .vomnibarUrl {
+    font-family: var(--font-family);
+    white-space: nowrap;
+    color: var(--li-url-color);
+}
+
+#vomnibar li .vomnibarTitle {
+    font-family: var(--font-family) !important;
+    font-size: 10pt;
+    color: var(--li-title-color);
+    margin-left: 4px;
+    font-weight: normal;
+}
+
+#vomnibar li .vomnibarTitle > .vomnibarMatch {
+    color: var(--li-title-color) !important;
+    font-weight: bold;
+}
+
+#vomnibar li .vomnibarUrl > .vomnibarMatch {
+    color: var(--li-url-color) !important;
+    font-weight: bold;
+}
+
+
+#vomnibar li .vomnibarSource {
+    font-family: var(--font-family); 
+    color: var(--li-source-color);
+    margin-right: 4px;
+    width: 50px;
+}
+
+#vomnibar li .vomnibarNoInsertText { width: auto; }
+#vomnibar li .vomnibarIcon { display: none; }
+#vomnibar li.vomnibarSelected { background-color: var(--select-color); }
+
+/* hint markers */
+
+div > .vimiumHintMarker {
+    padding: px 5px;
+    background-color: var(--hm-bg-color);
+    border: 0;
+    border-radius: 0px;
+    box-shadow: none;
+    background-image: none;
+  }
+  
+  div > .vimiumHintMarker span {
+    font-size: 10px;
+    font-weight: bold;
+    text-shadow: none;
+    color: var(--hm-text-color);
+  }
+  
+  div > .vimiumHintMarker > .matchingCharacter {
+    color: var(--hm-text-accent-color);
+  }
