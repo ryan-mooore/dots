@@ -1,0 +1,207 @@
+Downloading https://pvsc.azureedge.net/python-language-server-stable/Python-Language-Server-linux-x64.0.5.51.nupkg...
+Language server download complete
+Unpacking archive... done
+[Info  - 9:25:46 pm] Analysis cache path: /home/void/.cache/Microsoft/Python Language Server
+[Info  - 9:25:46 pm] Microsoft Python Language Server version 0.5.51.0
+[Info  - 9:25:46 pm] Workspace root: /home/void/bestbikedeal
+[Info  - 9:25:47 pm] GetCurrentSearchPaths /bin/python 
+[Info  - 9:25:47 pm] Interpreter search paths:
+[Info  - 9:25:47 pm]     /usr/lib/python3.8
+[Info  - 9:25:47 pm]     /usr/lib/python3.8/lib-dynload
+[Info  - 9:25:47 pm]     /home/void/.local/lib/python3.8/site-packages
+[Info  - 9:25:47 pm]     /usr/lib/python3.8/site-packages
+[Info  - 9:25:47 pm] User search paths:
+No usable version of libssl was found
+[Info  - 9:26:06 pm] Connection to server got closed. Server will restart.
+[Error - 9:26:06 pm] Request textDocument/codeAction failed.
+Error: Connection got disposed.
+	at Object.dispose (/home/void/.vscode-oss/extensions/ms-python.python-2020.8.105045/out/client/extension.js:46:83344)
+	at Object.dispose (/home/void/.vscode-oss/extensions/ms-python.python-2020.8.105045/out/client/extension.js:1:300751)
+	at _.handleConnectionClosed (/home/void/.vscode-oss/extensions/ms-python.python-2020.8.105045/out/client/extension.js:1:300963)
+	at _.handleConnectionClosed (/home/void/.vscode-oss/extensions/ms-python.python-2020.8.105045/out/client/extension.js:46:34852)
+	at t (/home/void/.vscode-oss/extensions/ms-python.python-2020.8.105045/out/client/extension.js:1:299072)
+	at invoke (/home/void/.vscode-oss/extensions/ms-python.python-2020.8.105045/out/client/extension.js:1:460984)
+	at o.fire (/home/void/.vscode-oss/extensions/ms-python.python-2020.8.105045/out/client/extension.js:1:461745)
+	at Q (/home/void/.vscode-oss/extensions/ms-python.python-2020.8.105045/out/client/extension.js:46:72909)
+	at invoke (/home/void/.vscode-oss/extensions/ms-python.python-2020.8.105045/out/client/extension.js:1:460984)
+	at o.fire (/home/void/.vscode-oss/extensions/ms-python.python-2020.8.105045/out/client/extension.js:1:461745)
+	at p.fireClose (/home/void/.vscode-oss/extensions/ms-python.python-2020.8.105045/out/client/extension.js:46:63386)
+	at Socket.<anonymous> (/home/void/.vscode-oss/extensions/ms-python.python-2020.8.105045/out/client/extension.js:46:64966)
+	at Socket.emit (events.js:208:15)
+	at Pipe.<anonymous> (net.js:588:12)
+[Error - 9:26:06 pm] Request textDocument/documentSymbol failed.
+Error: Connection got disposed.
+	at Object.dispose (/home/void/.vscode-oss/extensions/ms-python.python-2020.8.105045/out/client/extension.js:46:83344)
+	at Object.dispose (/home/void/.vscode-oss/extensions/ms-python.python-2020.8.105045/out/client/extension.js:1:300751)
+	at _.handleConnectionClosed (/home/void/.vscode-oss/extensions/ms-python.python-2020.8.105045/out/client/extension.js:1:300963)
+	at _.handleConnectionClosed (/home/void/.vscode-oss/extensions/ms-python.python-2020.8.105045/out/client/extension.js:46:34852)
+	at t (/home/void/.vscode-oss/extensions/ms-python.python-2020.8.105045/out/client/extension.js:1:299072)
+	at invoke (/home/void/.vscode-oss/extensions/ms-python.python-2020.8.105045/out/client/extension.js:1:460984)
+	at o.fire (/home/void/.vscode-oss/extensions/ms-python.python-2020.8.105045/out/client/extension.js:1:461745)
+	at Q (/home/void/.vscode-oss/extensions/ms-python.python-2020.8.105045/out/client/extension.js:46:72909)
+	at invoke (/home/void/.vscode-oss/extensions/ms-python.python-2020.8.105045/out/client/extension.js:1:460984)
+	at o.fire (/home/void/.vscode-oss/extensions/ms-python.python-2020.8.105045/out/client/extension.js:1:461745)
+	at p.fireClose (/home/void/.vscode-oss/extensions/ms-python.python-2020.8.105045/out/client/extension.js:46:63386)
+	at Socket.<anonymous> (/home/void/.vscode-oss/extensions/ms-python.python-2020.8.105045/out/client/extension.js:46:64966)
+	at Socket.emit (events.js:208:15)
+	at Pipe.<anonymous> (net.js:588:12)
+[Info  - 9:26:06 pm] Analysis cache path: /home/void/.cache/Microsoft/Python Language Server
+[Info  - 9:26:06 pm] Microsoft Python Language Server version 0.5.51.0
+[Info  - 9:26:06 pm] Workspace root: /home/void/bestbikedeal
+[Info  - 9:26:06 pm] GetCurrentSearchPaths /bin/python 
+[Info  - 9:26:06 pm] Interpreter search paths:
+[Info  - 9:26:06 pm]     /usr/lib/python3.8
+[Info  - 9:26:06 pm]     /usr/lib/python3.8/lib-dynload
+[Info  - 9:26:06 pm]     /home/void/.local/lib/python3.8/site-packages
+[Info  - 9:26:06 pm]     /usr/lib/python3.8/site-packages
+[Info  - 9:26:06 pm] User search paths:
+No usable version of libssl was found
+[Info  - 9:26:07 pm] Connection to server got closed. Server will restart.
+[Error - 9:26:07 pm] Request textDocument/documentSymbol failed.
+Error: Connection got disposed.
+	at Object.dispose (/home/void/.vscode-oss/extensions/ms-python.python-2020.8.105045/out/client/extension.js:46:83344)
+	at Object.dispose (/home/void/.vscode-oss/extensions/ms-python.python-2020.8.105045/out/client/extension.js:1:300751)
+	at _.handleConnectionClosed (/home/void/.vscode-oss/extensions/ms-python.python-2020.8.105045/out/client/extension.js:1:300963)
+	at _.handleConnectionClosed (/home/void/.vscode-oss/extensions/ms-python.python-2020.8.105045/out/client/extension.js:46:34852)
+	at t (/home/void/.vscode-oss/extensions/ms-python.python-2020.8.105045/out/client/extension.js:1:299072)
+	at invoke (/home/void/.vscode-oss/extensions/ms-python.python-2020.8.105045/out/client/extension.js:1:460984)
+	at o.fire (/home/void/.vscode-oss/extensions/ms-python.python-2020.8.105045/out/client/extension.js:1:461745)
+	at Q (/home/void/.vscode-oss/extensions/ms-python.python-2020.8.105045/out/client/extension.js:46:72909)
+	at invoke (/home/void/.vscode-oss/extensions/ms-python.python-2020.8.105045/out/client/extension.js:1:460984)
+	at o.fire (/home/void/.vscode-oss/extensions/ms-python.python-2020.8.105045/out/client/extension.js:1:461745)
+	at p.fireClose (/home/void/.vscode-oss/extensions/ms-python.python-2020.8.105045/out/client/extension.js:46:63386)
+	at Socket.<anonymous> (/home/void/.vscode-oss/extensions/ms-python.python-2020.8.105045/out/client/extension.js:46:64966)
+	at Socket.emit (events.js:208:15)
+	at Pipe.<anonymous> (net.js:588:12)
+[Error - 9:26:07 pm] Request textDocument/codeAction failed.
+Error: Connection got disposed.
+	at Object.dispose (/home/void/.vscode-oss/extensions/ms-python.python-2020.8.105045/out/client/extension.js:46:83344)
+	at Object.dispose (/home/void/.vscode-oss/extensions/ms-python.python-2020.8.105045/out/client/extension.js:1:300751)
+	at _.handleConnectionClosed (/home/void/.vscode-oss/extensions/ms-python.python-2020.8.105045/out/client/extension.js:1:300963)
+	at _.handleConnectionClosed (/home/void/.vscode-oss/extensions/ms-python.python-2020.8.105045/out/client/extension.js:46:34852)
+	at t (/home/void/.vscode-oss/extensions/ms-python.python-2020.8.105045/out/client/extension.js:1:299072)
+	at invoke (/home/void/.vscode-oss/extensions/ms-python.python-2020.8.105045/out/client/extension.js:1:460984)
+	at o.fire (/home/void/.vscode-oss/extensions/ms-python.python-2020.8.105045/out/client/extension.js:1:461745)
+	at Q (/home/void/.vscode-oss/extensions/ms-python.python-2020.8.105045/out/client/extension.js:46:72909)
+	at invoke (/home/void/.vscode-oss/extensions/ms-python.python-2020.8.105045/out/client/extension.js:1:460984)
+	at o.fire (/home/void/.vscode-oss/extensions/ms-python.python-2020.8.105045/out/client/extension.js:1:461745)
+	at p.fireClose (/home/void/.vscode-oss/extensions/ms-python.python-2020.8.105045/out/client/extension.js:46:63386)
+	at Socket.<anonymous> (/home/void/.vscode-oss/extensions/ms-python.python-2020.8.105045/out/client/extension.js:46:64966)
+	at Socket.emit (events.js:208:15)
+	at Pipe.<anonymous> (net.js:588:12)
+[Info  - 9:26:07 pm] Analysis cache path: /home/void/.cache/Microsoft/Python Language Server
+[Info  - 9:26:07 pm] Microsoft Python Language Server version 0.5.51.0
+[Info  - 9:26:07 pm] Workspace root: /home/void/bestbikedeal
+[Info  - 9:26:07 pm] GetCurrentSearchPaths /bin/python 
+[Info  - 9:26:07 pm] Interpreter search paths:
+[Info  - 9:26:07 pm]     /usr/lib/python3.8
+[Info  - 9:26:07 pm]     /usr/lib/python3.8/lib-dynload
+[Info  - 9:26:07 pm]     /home/void/.local/lib/python3.8/site-packages
+[Info  - 9:26:07 pm]     /usr/lib/python3.8/site-packages
+[Info  - 9:26:07 pm] User search paths:
+No usable version of libssl was found
+[Info  - 9:26:07 pm] Connection to server got closed. Server will restart.
+[Error - 9:26:07 pm] Request textDocument/documentSymbol failed.
+Error: Connection got disposed.
+	at Object.dispose (/home/void/.vscode-oss/extensions/ms-python.python-2020.8.105045/out/client/extension.js:46:83344)
+	at Object.dispose (/home/void/.vscode-oss/extensions/ms-python.python-2020.8.105045/out/client/extension.js:1:300751)
+	at _.handleConnectionClosed (/home/void/.vscode-oss/extensions/ms-python.python-2020.8.105045/out/client/extension.js:1:300963)
+	at _.handleConnectionClosed (/home/void/.vscode-oss/extensions/ms-python.python-2020.8.105045/out/client/extension.js:46:34852)
+	at t (/home/void/.vscode-oss/extensions/ms-python.python-2020.8.105045/out/client/extension.js:1:299072)
+	at invoke (/home/void/.vscode-oss/extensions/ms-python.python-2020.8.105045/out/client/extension.js:1:460984)
+	at o.fire (/home/void/.vscode-oss/extensions/ms-python.python-2020.8.105045/out/client/extension.js:1:461745)
+	at Q (/home/void/.vscode-oss/extensions/ms-python.python-2020.8.105045/out/client/extension.js:46:72909)
+	at invoke (/home/void/.vscode-oss/extensions/ms-python.python-2020.8.105045/out/client/extension.js:1:460984)
+	at o.fire (/home/void/.vscode-oss/extensions/ms-python.python-2020.8.105045/out/client/extension.js:1:461745)
+	at p.fireClose (/home/void/.vscode-oss/extensions/ms-python.python-2020.8.105045/out/client/extension.js:46:63386)
+	at Socket.<anonymous> (/home/void/.vscode-oss/extensions/ms-python.python-2020.8.105045/out/client/extension.js:46:64966)
+	at Socket.emit (events.js:208:15)
+	at Pipe.<anonymous> (net.js:588:12)
+[Error - 9:26:07 pm] Request textDocument/codeAction failed.
+Error: Connection got disposed.
+	at Object.dispose (/home/void/.vscode-oss/extensions/ms-python.python-2020.8.105045/out/client/extension.js:46:83344)
+	at Object.dispose (/home/void/.vscode-oss/extensions/ms-python.python-2020.8.105045/out/client/extension.js:1:300751)
+	at _.handleConnectionClosed (/home/void/.vscode-oss/extensions/ms-python.python-2020.8.105045/out/client/extension.js:1:300963)
+	at _.handleConnectionClosed (/home/void/.vscode-oss/extensions/ms-python.python-2020.8.105045/out/client/extension.js:46:34852)
+	at t (/home/void/.vscode-oss/extensions/ms-python.python-2020.8.105045/out/client/extension.js:1:299072)
+	at invoke (/home/void/.vscode-oss/extensions/ms-python.python-2020.8.105045/out/client/extension.js:1:460984)
+	at o.fire (/home/void/.vscode-oss/extensions/ms-python.python-2020.8.105045/out/client/extension.js:1:461745)
+	at Q (/home/void/.vscode-oss/extensions/ms-python.python-2020.8.105045/out/client/extension.js:46:72909)
+	at invoke (/home/void/.vscode-oss/extensions/ms-python.python-2020.8.105045/out/client/extension.js:1:460984)
+	at o.fire (/home/void/.vscode-oss/extensions/ms-python.python-2020.8.105045/out/client/extension.js:1:461745)
+	at p.fireClose (/home/void/.vscode-oss/extensions/ms-python.python-2020.8.105045/out/client/extension.js:46:63386)
+	at Socket.<anonymous> (/home/void/.vscode-oss/extensions/ms-python.python-2020.8.105045/out/client/extension.js:46:64966)
+	at Socket.emit (events.js:208:15)
+	at Pipe.<anonymous> (net.js:588:12)
+[Info  - 9:26:08 pm] Analysis cache path: /home/void/.cache/Microsoft/Python Language Server
+[Info  - 9:26:08 pm] Microsoft Python Language Server version 0.5.51.0
+[Info  - 9:26:08 pm] Workspace root: /home/void/bestbikedeal
+[Info  - 9:26:08 pm] GetCurrentSearchPaths /bin/python 
+[Info  - 9:26:08 pm] Interpreter search paths:
+[Info  - 9:26:08 pm]     /usr/lib/python3.8
+[Info  - 9:26:08 pm]     /usr/lib/python3.8/lib-dynload
+[Info  - 9:26:08 pm]     /home/void/.local/lib/python3.8/site-packages
+[Info  - 9:26:08 pm]     /usr/lib/python3.8/site-packages
+[Info  - 9:26:08 pm] User search paths:
+No usable version of libssl was found
+[Info  - 9:26:08 pm] Connection to server got closed. Server will restart.
+[Error - 9:26:08 pm] Request textDocument/documentSymbol failed.
+Error: Connection got disposed.
+	at Object.dispose (/home/void/.vscode-oss/extensions/ms-python.python-2020.8.105045/out/client/extension.js:46:83344)
+	at Object.dispose (/home/void/.vscode-oss/extensions/ms-python.python-2020.8.105045/out/client/extension.js:1:300751)
+	at _.handleConnectionClosed (/home/void/.vscode-oss/extensions/ms-python.python-2020.8.105045/out/client/extension.js:1:300963)
+	at _.handleConnectionClosed (/home/void/.vscode-oss/extensions/ms-python.python-2020.8.105045/out/client/extension.js:46:34852)
+	at t (/home/void/.vscode-oss/extensions/ms-python.python-2020.8.105045/out/client/extension.js:1:299072)
+	at invoke (/home/void/.vscode-oss/extensions/ms-python.python-2020.8.105045/out/client/extension.js:1:460984)
+	at o.fire (/home/void/.vscode-oss/extensions/ms-python.python-2020.8.105045/out/client/extension.js:1:461745)
+	at Q (/home/void/.vscode-oss/extensions/ms-python.python-2020.8.105045/out/client/extension.js:46:72909)
+	at invoke (/home/void/.vscode-oss/extensions/ms-python.python-2020.8.105045/out/client/extension.js:1:460984)
+	at o.fire (/home/void/.vscode-oss/extensions/ms-python.python-2020.8.105045/out/client/extension.js:1:461745)
+	at p.fireClose (/home/void/.vscode-oss/extensions/ms-python.python-2020.8.105045/out/client/extension.js:46:63386)
+	at Socket.<anonymous> (/home/void/.vscode-oss/extensions/ms-python.python-2020.8.105045/out/client/extension.js:46:64966)
+	at Socket.emit (events.js:208:15)
+	at Pipe.<anonymous> (net.js:588:12)
+[Error - 9:26:08 pm] Request textDocument/codeAction failed.
+Error: Connection got disposed.
+	at Object.dispose (/home/void/.vscode-oss/extensions/ms-python.python-2020.8.105045/out/client/extension.js:46:83344)
+	at Object.dispose (/home/void/.vscode-oss/extensions/ms-python.python-2020.8.105045/out/client/extension.js:1:300751)
+	at _.handleConnectionClosed (/home/void/.vscode-oss/extensions/ms-python.python-2020.8.105045/out/client/extension.js:1:300963)
+	at _.handleConnectionClosed (/home/void/.vscode-oss/extensions/ms-python.python-2020.8.105045/out/client/extension.js:46:34852)
+	at t (/home/void/.vscode-oss/extensions/ms-python.python-2020.8.105045/out/client/extension.js:1:299072)
+	at invoke (/home/void/.vscode-oss/extensions/ms-python.python-2020.8.105045/out/client/extension.js:1:460984)
+	at o.fire (/home/void/.vscode-oss/extensions/ms-python.python-2020.8.105045/out/client/extension.js:1:461745)
+	at Q (/home/void/.vscode-oss/extensions/ms-python.python-2020.8.105045/out/client/extension.js:46:72909)
+	at invoke (/home/void/.vscode-oss/extensions/ms-python.python-2020.8.105045/out/client/extension.js:1:460984)
+	at o.fire (/home/void/.vscode-oss/extensions/ms-python.python-2020.8.105045/out/client/extension.js:1:461745)
+	at p.fireClose (/home/void/.vscode-oss/extensions/ms-python.python-2020.8.105045/out/client/extension.js:46:63386)
+	at Socket.<anonymous> (/home/void/.vscode-oss/extensions/ms-python.python-2020.8.105045/out/client/extension.js:46:64966)
+	at Socket.emit (events.js:208:15)
+	at Pipe.<anonymous> (net.js:588:12)
+[Info  - 9:26:09 pm] Analysis cache path: /home/void/.cache/Microsoft/Python Language Server
+[Info  - 9:26:09 pm] Microsoft Python Language Server version 0.5.51.0
+[Info  - 9:26:09 pm] Workspace root: /home/void/bestbikedeal
+[Info  - 9:26:09 pm] GetCurrentSearchPaths /bin/python 
+[Info  - 9:26:09 pm] Interpreter search paths:
+[Info  - 9:26:09 pm]     /usr/lib/python3.8
+[Info  - 9:26:09 pm]     /usr/lib/python3.8/lib-dynload
+[Info  - 9:26:09 pm]     /home/void/.local/lib/python3.8/site-packages
+[Info  - 9:26:09 pm]     /usr/lib/python3.8/site-packages
+[Info  - 9:26:09 pm] User search paths:
+No usable version of libssl was found
+[Error - 9:26:09 pm] Connection to server got closed. Server will not be restarted.
+[Error - 9:26:09 pm] Request textDocument/documentSymbol failed.
+Error: Connection got disposed.
+	at Object.dispose (/home/void/.vscode-oss/extensions/ms-python.python-2020.8.105045/out/client/extension.js:46:83344)
+	at Object.dispose (/home/void/.vscode-oss/extensions/ms-python.python-2020.8.105045/out/client/extension.js:1:300751)
+	at _.handleConnectionClosed (/home/void/.vscode-oss/extensions/ms-python.python-2020.8.105045/out/client/extension.js:1:300963)
+	at _.handleConnectionClosed (/home/void/.vscode-oss/extensions/ms-python.python-2020.8.105045/out/client/extension.js:46:34852)
+	at t (/home/void/.vscode-oss/extensions/ms-python.python-2020.8.105045/out/client/extension.js:1:299072)
+	at invoke (/home/void/.vscode-oss/extensions/ms-python.python-2020.8.105045/out/client/extension.js:1:460984)
+	at o.fire (/home/void/.vscode-oss/extensions/ms-python.python-2020.8.105045/out/client/extension.js:1:461745)
+	at Q (/home/void/.vscode-oss/extensions/ms-python.python-2020.8.105045/out/client/extension.js:46:72909)
+	at invoke (/home/void/.vscode-oss/extensions/ms-python.python-2020.8.105045/out/client/extension.js:1:460984)
+	at o.fire (/home/void/.vscode-oss/extensions/ms-python.python-2020.8.105045/out/client/extension.js:1:461745)
+	at p.fireClose (/home/void/.vscode-oss/extensions/ms-python.python-2020.8.105045/out/client/extension.js:46:63386)
+	at Socket.<anonymous> (/home/void/.vscode-oss/extensions/ms-python.python-2020.8.105045/out/client/extension.js:46:64966)
+	at Socket.emit (events.js:208:15)
+	at Pipe.<anonymous> (net.js:588:12)

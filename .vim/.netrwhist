@@ -1,0 +1,9 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhistcnt =7
+let g:netrw_dirhist_7='/home/void/Downloads/mysql-workbench-community-8.0.21-src/build/cmake'
+let g:netrw_dirhist_6='/home/lost+found'
+let g:netrw_dirhist_5='/home'
+let g:netrw_dirhist_4='/home/void'
+let g:netrw_dirhist_3='/home/void/.config/picom'
+let g:netrw_dirhist_2='/home/void/picom'
+let g:netrw_dirhist_1='/home/void/.config/picom'

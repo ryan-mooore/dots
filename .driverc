@@ -1,0 +1,6 @@
+
+depth=100
+
+[pull/push]
+exclude-ops=delete
+# no-clobber=true

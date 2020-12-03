@@ -17,5 +17,5 @@
   "grabBackFocus": false,
   "searchEngines": "w: https://www.wikipedia.org/w/index.php?title=Special:Search&search=%s Wikipedia\ng: https://www.google.com/search?q=%s Google\nl: https://www.google.com/search?q=%s&btnI I'm feeling lucky...\ny: https://www.youtube.com/results?search_query=%s Youtube\ngm: https://www.google.com/maps?q=%s Google maps",
   "searchUrl": "https://www.google.com/search?q=",
-  "userDefinedLinkHintCss": "";
+  "userDefinedLinkHintCss": ""
 }
