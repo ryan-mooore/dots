@@ -1,0 +1,5 @@
+[user]
+	email = kiwi.ryanmoore@gmail.com
+	name = Ryan Moore
+[core]
+	excludesfile = /Users/ryan/.gitignore_global
