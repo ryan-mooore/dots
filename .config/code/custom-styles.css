@@ -1,0 +1,5 @@
+.monaco-editor.vs .redsquiggly,
+.monaco-editor.vs-dark .redsquiggly {
+  background: rgba(255,255,255,0.2);
+  border-bottom: 1px solid #fff;
+}
