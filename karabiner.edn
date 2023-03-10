@@ -1,0 +1,2 @@
+:applications {:notion ["^notion\\.id$"]}
+{:main [{:des "inline equation notion" :rules [[:!Ck [:slash :l :spacebar :k :q :return_or_enter: [:notion]]]]}]}
